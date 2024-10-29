@@ -2,4 +2,6 @@
 
 Workshop by UBC Library Research Commons
 
-Andrew Li
+## Reviwing local changes 
+
+use `git diff` to review changes that we have made before a commit. 
